@@ -87,39 +87,39 @@ void randColor(){
     if(rand == 1){
         setColor(255, 255, 0);
         prev_red = 255;
-        prev_red = 255;
-        prev_red = 0;
+        prev_green = 255;
+        prev_blue = 0;
 
     }
     else if(rand == 2){
         setColor(255, 255, 255); // 2
         prev_red = 255;
-        prev_red = 255;
-        prev_red = 255;
+        prev_green = 255;
+        prev_blue = 255;
     }
     else if(rand == 3){
         setColor(0, 255, 255); // 3
         prev_red = 0;
-        prev_red = 255;
-        prev_red = 255;
+        prev_green = 255;
+        prev_blue = 255;
     }
     else if(rand == 4){
         setColor(0, 0, 255); // 4
         prev_red = 0;
-        prev_red = 0;
-        prev_red = 255;
+        prev_green = 0;
+        prev_blue = 255;
     }
     else if(rand == 5){
         setColor(255, 0, 255); // 5
         prev_red = 255;
-        prev_red = 0;
-        prev_red = 255;
+        prev_green = 0;
+        prev_blue = 255;
     }
     else if(rand == 6){
         setColor(255, 0, 0); // 6
         prev_red = 255;
-        prev_red = 0;
-        prev_red = 0;
+        prev_green = 0;
+        prev_blue = 0;
     }
     
 }
