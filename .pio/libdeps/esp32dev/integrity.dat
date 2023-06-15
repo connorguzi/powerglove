@@ -1,0 +1,7 @@
+SPI
+t-vk/ESP32 BLE Mouse@^0.3.1
+crankyoldgit/IRremoteESP8266@^2.8.5
+Adafruit_BNO055
+madhephaestus/ESP32Servo@^0.13.0
+Adafruit_Sensor
+t-vk/ESP32 BLE Keyboard@^0.3.2

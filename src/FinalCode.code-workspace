@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ECE 167/Final/FinalCode"
+		},
+		{
+			"name": "230607-105153-esp32dev",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"xiosbase": "cpp",
+			"functional": "cpp",
+			"optional": "cpp",
+			"system_error": "cpp",
+			"xtr1common": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp",
+			"ratio": "cpp",
+			"array": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		}
+	}
+}
